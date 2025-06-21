@@ -4,6 +4,6 @@
 mkdir project2
 ```
 ```bash
-git status
+git status.
 ```
 
